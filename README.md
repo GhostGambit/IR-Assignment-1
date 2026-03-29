@@ -150,8 +150,6 @@ Operator precedence (highest to lowest):
 
 ## Author
 Muhammad Umer Siddiqui
-
-**Your Name**
 Roll No 23K-0644
 BCS 6A
 CS4051 — Information Retrieval
